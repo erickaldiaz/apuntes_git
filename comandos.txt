@@ -8,3 +8,6 @@ nuestro código actualizado
 git push: sube los cambios desde nuestro
 repositorio local al repositorio remoto
 git pull: me trae los cambios del repositorio remoto.
+
+Merge automatico
+git ordena automaticamente los cambios como los cambios traidos de la copia traida del repositorio remoto
