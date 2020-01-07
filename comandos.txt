@@ -1,0 +1,10 @@
+git clone: clona un repositorio remoto a nuestra
+computadora.
+git status: me dice si tengo cambios para subir.
+git add: agrega mis cambios para que luego
+subirlos a nuestro repositorio remoto
+git commit: genera una nueva versión con
+nuestro código actualizado
+git push: sube los cambios desde nuestro
+repositorio local al repositorio remoto
+git pull: me trae los cambios del repositorio remoto.
