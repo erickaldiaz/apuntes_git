@@ -15,4 +15,4 @@ git rm f <nombre del archivo>: para borrarlo del stage y DE TODOS LADOS.
 git commit --amend : para andexar un commit a otro.
 git log: muestra una lista con los commit que se hicieron.
 git diff: compara estados. Puedo comparar commit A con commit B y si pongo un solo parametro, lo compara con el último commit( tirar git log para copiar el N° de commit que quiero comparar)Tener en cuenta el orden en el que se ponen los commit ej git diff <version1> vs <version2>
-
+git reset --soft : si voy a git log, tomamos el ante ultimo
