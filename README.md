@@ -1,4 +1,4 @@
-# apuntes_git
+# Mis apuntes de git
 
 git clone: clona un repositorio remoto a nuestra
 computadora.
