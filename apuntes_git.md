@@ -18,4 +18,8 @@ git diff: compara estados. Puedo comparar commit A con commit B y si pongo un so
 git reset --soft : si voy a git log, tomo el ante ultimo, pongo git soft y borra el ultimo commit.
 git reset --mixed quita un commit del stage los deja listos para add y commitear.
 git reset --hard borra absolutamente todo
+  
+git branch -l hace una lista de las branchs
+git branch -d x borra la branch si no tiene nada para pushear
+git branch -D x borra la branch aunque tengas cosas para commitear o pushear
 
